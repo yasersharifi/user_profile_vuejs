@@ -15,7 +15,6 @@
 <h5>استفاده از رابط کامندی</h5>
 <h5>گیت‌هاب</h5>
 <p>- کپی بر روی سیستم خودتان</p>
-`git clone https://github.com/yasersharifi/user_profile_vuejs.git
-`
+  <blockquote dir="ltr">git clone https://github.com/yasersharifi/user_profile_vuejs.git</blockquote>
 
 </div>
